@@ -16,6 +16,7 @@ A collection of small Java console projects focused on programming fundamentals,
 | Project | Concepts |
 | --- | --- |
 | Grade System | input, lists, averages, conditionals |
+| Calculator | input validation, loops, switch expressions, error handling |
 
 ## Requirements
 
@@ -27,3 +28,14 @@ Enter the project folder:
 
 ```sh
 cd projects/grade-system/src
+javac GradeSystem.java
+java GradeSystem
+```
+
+Or for Calculator:
+
+```sh
+cd projects/calculator/src
+javac Calculator.java
+java Calculator
+```
