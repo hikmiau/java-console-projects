@@ -17,6 +17,7 @@ A collection of small Java console projects focused on programming fundamentals,
 | --- | --- |
 | Grade System | input, lists, averages, conditionals |
 | Calculator | input validation, loops, switch expressions, error handling |
+| Todo List Manager | OOP design, stream processing, separation of concerns, user interaction |
 
 ## Requirements
 
@@ -38,4 +39,12 @@ Or for Calculator:
 cd projects/calculator/src
 javac Calculator.java
 java Calculator
+```
+
+Or for Todo List Manager:
+
+```sh
+cd projects/todo-list-manager/src
+javac *.java
+java TodoListApplication
 ```
